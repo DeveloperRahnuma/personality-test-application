@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TeamWayTest</string>
+
+    <string name="questionOne">You’re really busy at work and a colleague is telling you their life story and personal woes. You:</string>
+    <string name="qone_op1">Don’t dare to interrupt them</string>
+    <string name="qone_op2">Think it’s more important to give them some of your time; work can wait</string>
+    <string name="qone_op3">Listen, but with only with half an ear</string>
+    <string name="qone_op4">Interrupt and explain that you are really busy at the moment</string>
+
+    <string name="buttonText"> Click Here</string>
+    <string name="noAnswerMessage">Select Atleast One Answer</string>
+
+</resources>
